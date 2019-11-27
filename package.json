@@ -1,0 +1,33 @@
+{
+  "name": "ozz-ev2",
+  "version": "1.0.0",
+  "description": "Ozz-Ev Marketing Site",
+  "author": "Shem",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/vue-fontawesome": "^0.1.5",
+    "@nuxtjs/vuetify": "^0.5.5",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "nuxt-fontawesome": "^0.4.0",
+    "nuxt-material-design-icons": "^1.0.4",
+    "v-owl-carousel": "^1.0.8",
+    "v-show-slide": "^1.6.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-parallaxy": "^1.1.1",
+    "vue2-siema": "^0.2.2",
+    "vuetify": "^1.5.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "material-design-icons-iconfont": "^4.0.5",
+    "nodemon": "^1.18.9"
+  }
+}
